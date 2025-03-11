@@ -1,0 +1,27 @@
+#načteni
+
+jmeno = input("Zadajte jmeno")
+  
+#přetypování
+
+čislo = int(input("Zadajte čislo"))
+
+#3 podminky (if , elif, else)
+
+if (čislo == 10 ):
+    print("čislo je 10")
+
+elif (čislo == 15):
+    print("čislo je 15")
+
+else :
+    print (čislo je divni)
+
+#vypsat
+    print ("Čao" , jmeno)
+
+#logicke operatory
+
+if jmeno == "Ivan" or jmeno == "Dima":
+    print ("Mate krasně jmeno")
+    
